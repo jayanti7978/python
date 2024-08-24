@@ -1,0 +1,12 @@
+x=12
+y=24
+x+=y
+print(x)
+x-=y
+print(x)
+x**=y
+print(x)
+x/=y
+print(x)
+x%=y
+print(x)

@@ -1,0 +1,9 @@
+#d=(x*y)*z**a//b*c
+x=int(input('enter the element'))
+y=int(input('enter the element'))
+z=int(input('enter the element'))
+a=int(input('enter the element'))
+b=int(input('enter the element'))
+c=int(input('enter the element'))
+d=(x*y)*z**a//b*c
+print('d=',d)

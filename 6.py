@@ -1,0 +1,11 @@
+#wap to input three different string and display the last and first 2nd character.
+x=input('enter your name')
+print(x[-2])
+print(x[2])
+y=input('enter your father name')
+print(y[-2])
+print(y[2])
+z=input('enter your mother name')
+print(z[-2])
+print(z[2])
+print(y[3:6])
